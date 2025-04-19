@@ -1,6 +1,5 @@
 package com.hrithik.controller.master;
 
-import com.hrithik.base.BaseTransactionIO;
 import com.hrithik.dataObjects.ContentDO;
 import com.hrithik.executor.master.ContentExecutor;
 import com.hrithik.interfaceObjects.ContentIO;
